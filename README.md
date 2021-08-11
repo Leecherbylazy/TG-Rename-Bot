@@ -11,7 +11,7 @@ An Open Source Rename Telegram RoBot
 
 #### The Easy Way
 
-**Watch our Video for Create own Bot** - 👉 https://youtu.be/yYHrSnuYXpA
+**Watch  our Video for Create own Bot** - 👉 https://t.me/Hexbotsdg
 
 ### You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
@@ -37,10 +37,7 @@ python bot.py
 
 ## Credits, and Thanks to
 
-* [LAZYHACKER](https://telegram.dog/LAZYHACKER25) for his [AnyDLBot](https://github.com/SpEcHiDe/AnyDLBot)
-* [Dan Tès](https://telegram.dog/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
-* [Yoily](https://telegram.dog/YoilyL) for his [UploaditBot](https://telegram.dog/UploaditBot)
-
+* [LAZYHACKER](https://telegram.dog/LAZYHACKER25)
 - For FeedBack and Suggestions, please feel free to say in [@HEX SUPPORT Group](https://telegram.dog/)
 
 #### LICENSE
